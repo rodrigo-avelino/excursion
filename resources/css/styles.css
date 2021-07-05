@@ -3,8 +3,12 @@ body{
     text-align: center;
 }
 header{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana;
     font-weight: normal;
-    font-size: 50px;
+    font-size: 25px;
     color: white;
+}
+.download_link{
+    font-size: 16px;
+    color: aquamarine;
 }
